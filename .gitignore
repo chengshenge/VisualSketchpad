@@ -6,3 +6,10 @@ vision_experts/simplified_som/ops/.DS_Store
 .DS_Store
 .DS_Store
 .DS_Store
+
+# runtime logs
+*.log
+agent/jupyter_gateway.log
+
+# runtime outputs
+outputs/
