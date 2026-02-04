@@ -1,0 +1,32 @@
+{
+  "pid": "10",
+  "question": "Which object comes next?",
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "unit": null,
+  "precision": null,
+  "answer": "E",
+  "question_type": "multi_choice",
+  "answer_type": "text",
+  "metadata": {
+    "category": "math-targeted-vqa",
+    "context": "puzzle test",
+    "grade": "elementary school",
+    "img_height": 418,
+    "img_width": 376,
+    "language": "english",
+    "skills": [
+      "logical reasoning"
+    ],
+    "source": "IQTest",
+    "split": "testmini",
+    "task": "figure question answering"
+  },
+  "image": "images/10.jpg",
+  "query": "Hint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nQuestion: Which object comes next?\nChoices:\n(A) A\n(B) B\n(C) C\n(D) D\n(E) E"
+}

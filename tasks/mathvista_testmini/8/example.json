@@ -1,0 +1,29 @@
+{
+  "pid": "8",
+  "question": "Is the number of tiny gray bicycles that are on the left side of the brown metal sedan greater than the number of things that are to the left of the tiny green bicycle?",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "unit": null,
+  "precision": null,
+  "answer": "Yes",
+  "question_type": "multi_choice",
+  "answer_type": "text",
+  "metadata": {
+    "category": "general-vqa",
+    "context": "synthetic scene",
+    "grade": "daily life",
+    "img_height": 480,
+    "img_width": 640,
+    "language": "english",
+    "skills": [
+      "arithmetic reasoning"
+    ],
+    "source": "Super-CLEVR",
+    "split": "testmini",
+    "task": "visual question answering"
+  },
+  "image": "images/8.jpg",
+  "query": "Hint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nQuestion: Is the number of tiny gray bicycles that are on the left side of the brown metal sedan greater than the number of things that are to the left of the tiny green bicycle?\nChoices:\n(A) Yes\n(B) No"
+}
